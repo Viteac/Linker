@@ -69,6 +69,4 @@ with open(savers, 'a') as f:
         f.writelines(y)
 
 print(f'Your links are saved in: {saver}')
-print(link)
 
-print(comb)
